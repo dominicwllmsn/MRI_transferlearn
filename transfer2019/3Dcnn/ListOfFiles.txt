@@ -1,0 +1,2 @@
+/home/chao/3dcnn/input/ADNI_011_S_0003_MR_MPR-R__GradWarp__B1_Correction__N3__Scaled_Br_20061208111300610_S9127_I32237.nii
+/home/chao/3dcnn/input/ADNI_011_S_0003_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20061206160449712_S15240_I31863.nii
